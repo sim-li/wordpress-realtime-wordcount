@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 4685,
+    "date": "2021-02-02T18:44:55",
+    "date_gmt": "2021-02-02T17:44:55",
+    "guid": {
+      "rendered": "https://www.internate.org/?p=4685"
+    },
+    "modified": "2021-02-12T15:28:49",
+    "modified_gmt": "2021-02-12T14:28:49",
+    "slug": "die-grundschulempfehlung-in-bayern-die-huerde-und-der-weg-aufs-bayrische-gymnasium",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.internate.org/toechter-und-soehne-blog/die-grundschulempfehlung-in-bayern-die-huerde-und-der-weg-aufs-bayrische-gymnasium/",
+    "title": {
+      "rendered": "Die Grundschulempfehlung in Bayern &#8211; die Hürde und der  Weg aufs bayrische Gymnasium"
+    },
+    "content": {
+      "rendered": "<h1>Auch ohne Grundschul-Empfehlung in Bayern aufs Gymnasium</h1>\n\n<p>Kein anderes Bundesland macht es Kindern so schwer, von der Grundschule auf das Gymnasium zu wechseln. Die Anforderungen sind hoch. Und für viele Familien artet gerade das letzte Grundschuljahr – also die 4. Klasse – zu echtem Stress aus.</p>\n\n<p>Doch das muss nicht sein. Es gibt Alternativen: einmal in Bayern selbst. Hier bieten Internate eine Art Aufbau-Gymnasium an , oft verbunden mit einer staatlichen Genehmigung, um Schüler langsam und dem jeweiligen Leistungsstand angepasst, auf eine Gymnasialkarriere vorzubereiten.</p>\n\n<p>In den benachbarten Bundesländern, allen voran Hessen, sind die Aufnahmekriterien nicht so hart wie in Bayern. Hier zählt sogar erst einmal der Elternwunsch. Viele Kinder sind mit 10 Jahren einfach noch nicht reif fürs Gymnasium, entpuppen sich aber oft schon ein Jahr später als „Spätzünder“. Wobei wir den englischen Begriff „Late Bloomer“ vorziehen, da er ein ungleich größeres Hoffnungspotenzial enthält.</p>\n\n<p>Wie dem auch sei; wenn Sie Ihrem Kind in Bayern nicht von vornherein die Gymnasialkarriere verbauen wollen, können Sie uns gerne unverbindlich kontaktieren (Telefon 0611-180 85 80 oder Email <a href=\"mailto:info@internate.org\">info@internate.org</a>) um über die Alternativen zu sprechen.</p>\n\n<p>Und ist Ihr Kind erst einmal auf dem Gymnasium, z. B. in <a href=\"https://www.internate.org/regionen/hessen/\">Hessen</a>, angenommen, ist der Wechsel zurück nach Bayern, etwa auf ein gutes Internat,  auch wieder möglich. Eine Chance, die Ihr Kind verdient hat.</p>\n\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Auch ohne Grundschul-Empfehlung in Bayern aufs Gymnasium Kein anderes Bundesland macht es Kindern so schwer, von der Grundschule auf das Gymnasium zu wechseln. Die Anforderungen sind hoch. Und für viele Familien artet gerade das letzte Grundschuljahr – also die 4. Klasse – zu echtem Stress aus. Doch das muss nicht sein. Es gibt Alternativen: einmal [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3674,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_relevanssi_hide_post": "",
+      "_relevanssi_pin_for_all": "on",
+      "_relevanssi_pin_keywords": "",
+      "_relevanssi_unpin_keywords": "",
+      "_relevanssi_related_keywords": "",
+      "_relevanssi_related_include_ids": "",
+      "_relevanssi_related_exclude_ids": "",
+      "_relevanssi_related_no_append": "",
+      "_relevanssi_related_not_related": "",
+      "_relevanssi_related_posts": "",
+      "_relevanssi_noindex_reason": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4685"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/comments?post=4685"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4685/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 4687,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4685/revisions/4687"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/media/3674"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/media?parent=4685"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/categories?post=4685"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/tags?post=4685"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4516,
+    "date": "2021-01-08T16:38:59",
+    "date_gmt": "2021-01-08T15:38:59",
+    "guid": {
+      "rendered": "https://www.internate.org/?p=4516"
+    },
+    "modified": "2021-01-08T17:26:10",
+    "modified_gmt": "2021-01-08T16:26:10",
+    "slug": "internate-oder-leben-und-lernen-in-einer-safe-bubble",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.internate.org/toechter-und-soehne-blog/internate-oder-leben-und-lernen-in-einer-safe-bubble/",
+    "title": {
+      "rendered": "Internate oder: Leben und Lernen in einer „safe Bubble“"
+    },
+    "content": {
+      "rendered": "<h1>Internate oder: Leben und Lernen in einer „safe Bubble“.</h1>\n\n<p>Schon wieder Schul-Lockdown. E-Learning. Zuhause rumhängen. Keine Freunde treffen. Kein Sport. Kein nix. Das zehrt an den Nerven. Und muss nicht sein.</p>\n\n<p>Es gibt eine ganze Reihe von Internaten, bei denen die Schüler in einer sogenannten „Bubble“ leben. Und das heißt, dass nicht nur gemeinsam Unterricht stattfindet, sondern auch das gesamte soziale Leben fast normal abläuft; Sport findet statt, es wird gemeinsam Musik gemacht, Theater gespielt und man kann sich jederzeit treffen.</p>\n\n<p>Wie kann das sein in Corona-Zeiten? Die, die neu kommen, müssen natürlich erstmal in Quarantäne und werden dann getestet. Und wer dabei negativ ist, hat Zutritt zur „Bubble“. Und kann endlich wieder „normal“ leben.</p>\n\n<p>Klingt ziemlich verlockend, oder?</p>\n\n<p>Wenn Sie sich den Weg in die Normalität der „Bubble“ für Ihr Kind grundsätzlich vorstellen können, nehmen Sie gerne Kontakt mit uns auf: Telefon <a href=\"tel:06111805880\">0611–180 58 80</a> oder Email <a href=\"mailto:info@internate.org\">info@internate.org</a></p>\n\n<p>Wenn Sie sich erst einmal ganz generell über Internate informieren möchten, können Sie unser <strong><a href=\"#\" class=\"tk-open-e-paper-popup\" id=\"tkOpenEPaperPopup\">E-Book Internate</a></strong> anfordern; das gibt Ihnen einen ersten Überblick, was Internat überhaupt bedeutet.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Internate oder: Leben und Lernen in einer „safe Bubble“. Schon wieder Schul-Lockdown. E-Learning. Zuhause rumhängen. Keine Freunde treffen. Kein Sport. Kein nix. Das zehrt an den Nerven. Und muss nicht sein. Es gibt eine ganze Reihe von Internaten, bei denen die Schüler in einer sogenannten „Bubble“ leben. Und das heißt, dass nicht nur gemeinsam Unterricht [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3704,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_relevanssi_hide_post": "",
+      "_relevanssi_pin_for_all": "",
+      "_relevanssi_pin_keywords": "",
+      "_relevanssi_unpin_keywords": "",
+      "_relevanssi_related_keywords": "",
+      "_relevanssi_related_include_ids": "",
+      "_relevanssi_related_exclude_ids": "",
+      "_relevanssi_related_no_append": "",
+      "_relevanssi_related_not_related": "",
+      "_relevanssi_related_posts": "",
+      "_relevanssi_noindex_reason": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4516"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/comments?post=4516"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4516/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 4518,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4516/revisions/4518"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/media/3704"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/media?parent=4516"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/categories?post=4516"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/tags?post=4516"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4502,
+    "date": "2021-01-08T14:16:32",
+    "date_gmt": "2021-01-08T13:16:32",
+    "guid": {
+      "rendered": "https://www.internate.org/?p=4502"
+    },
+    "modified": "2021-02-02T18:52:56",
+    "modified_gmt": "2021-02-02T17:52:56",
+    "slug": "ein-positiver-blick-aufs-neue-jahr-gedanken-von-peter-roesner-leiter-des-internats-louisenlund",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.internate.org/toechter-und-soehne-blog/ein-positiver-blick-aufs-neue-jahr-gedanken-von-peter-roesner-leiter-des-internats-louisenlund/",
+    "title": {
+      "rendered": "Ein positiver Blick aufs neue Jahr &#8211; Gedanken von Peter Rösner, Leiter des Internats Louisenlund"
+    },
+    "content": {
+      "rendered": "<p>Liebe Mitglieder der Schulfamilie Louisenlund,</p>\n<p>heute ist Montag, ein grauer Herbsttag. Ich sitze in meinem Büro, schaue auf die Schlei und schreibe Ihnen diesen Brief. Vor dem Fenster steht ein beleuchteter Weihnachtsbaum. Wir brauchen Licht. Die sonst um diese Zeit schon aufgebauten Buden für den Louisenlunder Weihnachtsmarkt stehen da nicht. Der ist abgesagt, wegen Corona. Viele Schülerinnen und Schüler sind heute zu Hause, wir machen ein langes Wochenende im Block zwischen den Herbst- und Weihnachtsferien. Unsere Lehrkräfte arbeiten heute in einem Schulentwicklungstag, getrennt in Kohorten, intensiv an der pädagogischen Weiterentwicklung in Louisenlund.</p>\n<p>Etwas entfernt höre ich unsere Baustelle. Wir bringen Kiesstopfsäulen in die Erde, als Grundlage für die Fundamente unserer Neubauten. Die Finanzierung steht, der Spatenstich ist erfolgt – online übertragen per Live-Stream. Mein Second-Screen zeigt, ebenfalls per Live-Stream, die Übertragung des Wirtschaftstages, den der Wirtschaftsrat Deutschland veranstaltet. Es geht um die Energiewende, die Globalisierung, die USA, Staatsschulden und Impfstoffe.</p>\n<p>Corona bestimmt den Alltag auch in Louisenlund. Wir planen kurzfristig, von Woche zu Woche. Ich gehe davon aus, dass uns Corona bis deutlich nach Ostern begleiten wird. Im Sommer wird sich das Virus zurückziehen. Dann kommt – hoffentlich – der Impfstoff in großen Mengen und die Zeit nach Corona – mit einer riesigen Fülle an Kollateralschäden und Herausforderungen, aber auch Chancen für die nächste Generation. Geschäftsmodelle vom Verbrennungsmotor bis hin zum Einzelhandel sind in Frage gestellt. Wenn wir unseren Wohlstand in Deutschland halten wollen, brauchen wir ziemlich gute Ideen, Innovationen und unternehmerischen Mut. Weitermachen wie bisher – das ist uns allen klar – wird nicht reichen.</p>\n<p>Und wie ist das in der Bildung? Wie bereiten wir die nächste Generation eigentlich darauf vor, dass sie Zukunft wirklich gestalten können? Weitermachen wie bisher?</p>\n<p>Louisenlund hat sich – schon vor Corona – stark damit beschäftigt, wie sich Bildung und Erziehung für unsere Kinder verändern müssen. Wir sind mittendrin in der Gestaltung des pädagogischen Aufbruchs. Es gibt viele Ideen, aber auch viele Fragen, die wir noch nicht beantwortet haben. Die entscheidende Frage ist, wie wir mit der Lebenszeit unserer Kinder im Alter zwischen 6 und 20 Jahren umgehen.</p>\n<p>Mit diesem Brief will ich Sie dazu inspirieren, um mit mir über diese Frage nachzudenken. Vielleicht haben Sie eine klare Meinung zur Anforderung von Bildung und Erziehung für die Zukunft. Wie müssen wir es machen, wenn wir den Anspruch haben, Schule und Internat so gut zu machen, wie es eben heute notwendig ist? Wenn Sie mögen, schreiben Sie mir, ich freue mich über Ihre Post.</p>\n<p>Die Freizeit: Ist Freizeit wirklich freie Zeit?</p>\n<p>Louisenlund ist ein Universum an Möglichkeiten. Das Begrenzende sind nicht die Ideen, Kurse, Wettbewerbe oder Gilden. Begrenzend ist aber die Zeit der Schülerinnen und Schüler, um die Angebote auch zu nutzen.</p>\n<p>Wenn wir mit neuen Ideen kommen – hier ein Tanzkurs, dort ein Basketball-Turnier oder ein spannender Vortrag, dann konkurriert das mit der als sehr kostbar empfundenen freien, eben nicht verplanten, Zeit unserer Kinder. Unsere Erfahrung ist, dass freiwillige Angebote praktisch nicht angenommen werden. Verpflichtende Angebote natürlich schon, oft aber mit inneren Widerständen, was sofort die Sinnhaftigkeit des Angebotes in Frage stellt. Gefragt nach der Alternative kommen diffuse Aussagen wie „Pause“, „Chillen“, „Netflix gucken“, „Lernen“ oder Ähnliches.</p>\n<p>Wieviel echte freie, unverplante Zeit gönnen wir unseren Kindern? Nehmen wir uns das Recht als Erwachsene, mit zu entscheiden, wie diese Freizeit verbracht wird? Erwarten wir, dass die unverplante Zeit zumindest genutzt wird, um für die nächste Klausur zu lernen? Welche Aktivitäten soll ein „Lunder“ in seiner Schulzeit gemacht haben, die dann Freizeit sind, aber eben doch verpflichtend? Wie können wir den permanenten Zeitdruck abmildern?</p>\n<p>Die Lernzeit: Haben wir Mut, den Bildungskanon neu zu definieren?</p>\n<p>In einer „analogen“ Schulklasse mit einem Lehrer müssen zwangsläufig alle Schülerinnen und Schüler im gleichen Tempo, möglichst mit gleich gutem Ergebnis das Gleiche machen. Die Digitalisierung von Lehren und Lernen würde individuelle Bildungspfade ermöglichen, unterschiedliche Geschwindigkeiten zulassen, und die könnte eigene Interessen und Stärken berücksichtigen. Aber wollen wir das erlauben? Wo bleibt die Vergleichbarkeit?</p>\n<p>Warum eigentlich bieten wir nicht den Schülerinnen und Schülern an, die sich für Sprachen und Kulturen interessieren, zwei oder drei Fremdsprachen zu lernen – und sich dafür nur rudimentär mit Kunst, Physik oder Politik zu beschäftigen? Warum erlauben wir nicht Schülerinnen und Schülern, die sich für Chemie, Informatik oder Physik interessieren, genau dafür viel mehr Zeit zu haben – und dafür wenigstens Englisch zu lernen, aber eben keine weitere Fremdsprache?</p>\n<p>Sollten wir den Kindern, die einfach schnell lernen, erlauben, auch in acht Jahren durchs Gymnasium zu gehen? Warum erlauben wir den Kindern, die mehr Zeit brauchen, nicht – ohne zu wiederholen – das Gymnasium in zehn Jahren zu machen, Klausuren dann zu schreiben, wenn die Inhalte verstanden und geübt sind und dann auch akademisch erfolgreich zu sein?</p>\n<p>Wenn wir könnten, wie wir wollten, welche Mindest-Bildung würden wir von einem „Lunder“ erwarten, in den Sprachen, den Natur- und Gesellschaftswissenschaften, in Musik, Sport oder Kunst? Sollten wir das ergänzen durch Kenntnisse aus Medizin, Jura, Datenanalyse oder Finanzwesen? Wie viel Zeit erlauben wir unseren Schülerinnen und Schülern, selbstbestimmt und mit Unterstützung unserer Mentorinnen und Mentoren, an eigenen Interessen und Stärken zu arbeiten?</p>\n<p>Antworten auf diese Fragen können keine Direktive sein. Sie müssen in einem breiten gesellschaftlichen Diskurs gesucht und politisch verhandelt werden. Als Schule in freier Trägerschaft hat Louisenlund die besondere Verantwortung, daran mitzuwirken. Wir werden neue Wege gehen und uns in diese Debatte einbringen. Ich lade Sie herzlich ein, daran mitzuwirken.</p>\n<p>Ich wünsche Ihnen und Ihrer Familie gesegnete Weihnachten und wünsche Ihnen ein gesundes, spannendes, erfolgreiches und buntes neues Jahr 2021!</p>\n\n<p>Dr. Peter Rösner</p>\n<p>Leiter Stiftung Louisenlund</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Liebe Mitglieder der Schulfamilie Louisenlund, heute ist Montag, ein grauer Herbsttag. Ich sitze in meinem Büro, schaue auf die Schlei und schreibe Ihnen diesen Brief. Vor dem Fenster steht ein beleuchteter Weihnachtsbaum. Wir brauchen Licht. Die sonst um diese Zeit schon aufgebauten Buden für den Louisenlunder Weihnachtsmarkt stehen da nicht. Der ist abgesagt, wegen Corona. [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3724,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_relevanssi_hide_post": "",
+      "_relevanssi_pin_for_all": "",
+      "_relevanssi_pin_keywords": "",
+      "_relevanssi_unpin_keywords": "",
+      "_relevanssi_related_keywords": "",
+      "_relevanssi_related_include_ids": "",
+      "_relevanssi_related_exclude_ids": "",
+      "_relevanssi_related_no_append": "",
+      "_relevanssi_related_not_related": "",
+      "_relevanssi_related_posts": "",
+      "_relevanssi_noindex_reason": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4502"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/comments?post=4502"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4502/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 4504,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4502/revisions/4504"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/media/3724"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/media?parent=4502"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/categories?post=4502"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/tags?post=4502"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4431,
+    "date": "2020-12-21T11:01:55",
+    "date_gmt": "2020-12-21T10:01:55",
+    "guid": {
+      "rendered": "https://www.internate.org/?p=4431"
+    },
+    "modified": "2021-01-12T18:22:17",
+    "modified_gmt": "2021-01-12T17:22:17",
+    "slug": "ist-mint-unterricht-unter-corona-bedingungen-ueberhaupt-noch-moeglich",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.internate.org/toechter-und-soehne-blog/ist-mint-unterricht-unter-corona-bedingungen-ueberhaupt-noch-moeglich/",
+    "title": {
+      "rendered": "Ist MINT-Unterricht unter Corona-Bedingungen überhaupt noch möglich?"
+    },
+    "content": {
+      "rendered": "<p>Alle hat der Schul-Lockdown überrascht. Alle haben sich redlich bemüht. Aber im MINT-Bereich, wo die konkrete Labor-Erfahrung für das Lernen und Verstehen so wichtig ist, leiden die Schüler ganz besonders unter den reduzierten  Angeboten durch das E-Learning.</p>\n<p>Gerade in den MIN-Fächern können Internate ihren Vorteil voll ausspielen. Sie richten ihren Campus als „Safe-Zone“ oder als so genannte &#8222;Bubble&#8220; ein. Die Außenkontakte werden auf quasi Null reduziert und deswegen kann man Innen ganz normal leben und lernen, aktiv Naturwissenschaften betreiben. So  bleiben die Schüler am Ball und  verlieren nicht den Anschluss. Das gilt natürlich auch –  und bestimmt genauso wichtig – für das soziale Leben der Schüler untereinander.</p>\n<p>Kontaktieren Sie bitte die erfahrenen Berater bei Töchter und Söhne, die zeigen Ihnen gerne auf, wie Internate es anstellen, in vielen Fällen weiterhin Präsenzunterricht anzubieten und die sozialen Kontakte aufrechtzuerhalten: 0611 180 58 80 oder <a href=\"mailto:info@internate.org\">info@internate.org</a></p>\n<p>Wenn Sie noch unsicher sind und sich erst einmal ganz generell über Internate informieren wollen, bestellen Sie einfach unverbindlich unser E-Book &#8222;Internate&#8220;; der ideale Einstieg ins Thema Internat.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Alle hat der Schul-Lockdown überrascht. Alle haben sich redlich bemüht. Aber im MINT-Bereich, wo die konkrete Labor-Erfahrung für das Lernen und Verstehen so wichtig ist, leiden die Schüler ganz besonders unter den reduzierten  Angeboten durch das E-Learning. Gerade in den MIN-Fächern können Internate ihren Vorteil voll ausspielen. Sie richten ihren Campus als „Safe-Zone“ oder als [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3784,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_relevanssi_hide_post": "",
+      "_relevanssi_pin_for_all": "",
+      "_relevanssi_pin_keywords": "",
+      "_relevanssi_unpin_keywords": "",
+      "_relevanssi_related_keywords": "",
+      "_relevanssi_related_include_ids": "",
+      "_relevanssi_related_exclude_ids": "",
+      "_relevanssi_related_no_append": "",
+      "_relevanssi_related_not_related": "",
+      "_relevanssi_related_posts": "",
+      "_relevanssi_noindex_reason": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4431"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/comments?post=4431"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4431/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 4432,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4431/revisions/4432"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/media/3784"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/media?parent=4431"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/categories?post=4431"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/tags?post=4431"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4237,
+    "date": "2020-10-09T16:58:57",
+    "date_gmt": "2020-10-09T14:58:57",
+    "guid": {
+      "rendered": "https://www.internate.org/?p=4237"
+    },
+    "modified": "2020-10-27T11:53:28",
+    "modified_gmt": "2020-10-27T10:53:28",
+    "slug": "kanadische-internate-empfangen-wieder-deutsche-schueler",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.internate.org/toechter-und-soehne-blog/kanadische-internate-empfangen-wieder-deutsche-schueler/",
+    "title": {
+      "rendered": "Kanadas Provinzen handhaben Einreise für deutsche Schüler ganz unterschiedlich"
+    },
+    "content": {
+      "rendered": "<h1>Kanadas Provinzen handhaben Einreise für<span style=\"font-size: 16px;\"> </span>deutsche Schüler ganz unterschiedlich</h1>\n\n<p>Lange war ganz Kanada sehr restriktiv mit Einreiseerlaubnissen für deutsche Schüler umgegangen. Wer nicht schon eine sogenannte „study permit“ in der Hand hielt, konnte gar nicht einreisen; nur Schüler, die schon vor Corona auf einem kanadischen Internat registriert waren, hatten überhaupt die Chance, die Grenze zu überqueren. Und mussten danach aber erst einmal in eine recht strenge Quarantäne-Situation.</p>\n\n<p>Seit 20. Oktober kann es nun auch für die Schüler losgehen, die noch kein „study permit“ haben, und das jetzt beantragen können; allerdings gilt das nicht für alle kanadischen Provinzen. In Ontario z. B. ist es nun so, das selbst für Schüler, die bereits ein study permit haben, die Wiedereinreise keineswegs gesichert ist.</p>\n\n<p>Da sich die Nachrichten zu diesem Thema quasi täglich und auch regional wieder verschieben können, nehmen Sie bitte Kontakt zu Ihrer Beraterin bei Töchter und Söhne auf; die sind immer bestens und vor allem aktuell informiert und wissen, wo man unter welchen Bedingungen seinen Auslandsaufenthalt in Kanada planen kann: 0611-180 58 82 oder per Mail <a href=\"mailto:office@internate.org\">office@internate.org</a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Kanadas Provinzen handhaben Einreise für deutsche Schüler ganz unterschiedlich Lange war ganz Kanada sehr restriktiv mit Einreiseerlaubnissen für deutsche Schüler umgegangen. Wer nicht schon eine sogenannte „study permit“ in der Hand hielt, konnte gar nicht einreisen; nur Schüler, die schon vor Corona auf einem kanadischen Internat registriert waren, hatten überhaupt die Chance, die Grenze zu überqueren. [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3741,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_relevanssi_hide_post": "",
+      "_relevanssi_pin_for_all": "",
+      "_relevanssi_pin_keywords": "",
+      "_relevanssi_unpin_keywords": "",
+      "_relevanssi_related_keywords": "",
+      "_relevanssi_related_include_ids": "",
+      "_relevanssi_related_exclude_ids": "",
+      "_relevanssi_related_no_append": "",
+      "_relevanssi_related_not_related": "",
+      "_relevanssi_related_posts": "",
+      "_relevanssi_noindex_reason": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4237"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/comments?post=4237"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 7,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4237/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 4278,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4237/revisions/4278"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/media/3741"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/media?parent=4237"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/categories?post=4237"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/tags?post=4237"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4159,
+    "date": "2020-09-25T18:18:25",
+    "date_gmt": "2020-09-25T16:18:25",
+    "guid": {
+      "rendered": "https://www.internate.org/?p=4159"
+    },
+    "modified": "2020-11-03T16:48:22",
+    "modified_gmt": "2020-11-03T15:48:22",
+    "slug": "persoenliche-internats-beratung",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.internate.org/toechter-und-soehne-blog/persoenliche-internats-beratung/",
+    "title": {
+      "rendered": "Persönliche Internats-Beratung vor Ort"
+    },
+    "content": {
+      "rendered": "\n<h1><strong>Persönliche Antworten zum Thema Internat:<b> Individuelle Beratung im November per Skype </b></strong></h1>\n\n<p>Aufgrund der aktuellen Corona Lage, möchten wir verantwortungsvoll handeln und laden Sie daher, anstatt eines persönlichen Treffens herzlich zu einem Video-Call (Skype, Zoom, Teams) ein.</p>\n<p>Egal, ob Sie sich für ein <a href=\"https://www.internate.org/internate-in-deutschland/\"><strong>Internat in </strong>Deutschland</a> interessieren, weil Sie mit der pädagogischen Betreuung an der öffentlichen Schule unzufrieden sind. Oder, ob Sie einen Auslandsaufenthalt für Ihr Kind planen, um dessen Erfahrungs- und Sprachschatz zu erweitern. Wir unterstützen Sie, den passenden Internatsplatz zu finden.</p>\n<p>Wir sind in stetem Kontakt mit den Internaten und wissen sehr genau, wo z. B. in <a href=\"https://www.internate.org/england/\">England </a>auch kurzfristig noch Plätze frei sind. Welche Einreisebestimmungen nach dem Brexit gelten werden. Wie Sie das richtige Visum in den <a href=\"https://www.internate.org/usa/\">USA </a>oder <a href=\"https://www.internate.org/internate-in-kanada/\">Kanada</a> beantragen. Oder welche Internate in der <a href=\"https://www.internate.org/schweiz/\">Schweiz </a>welchen Abschluss anbieten, der auch an deutschen Universitäten anerkannt wird.</p>\n\n\n<h2><strong>Wo und wann findet die Beratung statt</strong></h2>\n<p>Sobald es wieder möglich ist, finden Sie hier die Beratungstermine, die für die nächste Zeit geplant sind. Bitte beachten Sie dann, wenn wir uns treffen, die Abstandsregeln, und tragen Sie einen Mund-Nasen-Schutz. Vielen Dank</p>\n\n<div id=\"accordion\" role=\"tablist\" aria-multiselectable=\"true\"><div class=\"card\">\n    <div class=\"card-header\" role=\"tab\" id=\"heading603648fde3dbc\">\n        <p class=\"tk-accordion-toggle clearfix collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapse603648fde3dbc\" aria-controls=\"collapse603648fde3dbc\">\n            <span class=\"tk-accordion-label\">Hamburg</span>\n            <span class=\"tk-accordion-icon-collapsed\"><i class=\"fa fa-angle-down\"></i></span>\n            <span class=\"tk-accordion-icon-show\"><i class=\"fa fa-angle-up\"></i></span>\n        </p>\n    </div>\n    <div id=\"collapse603648fde3dbc\" class=\"collapse\" role=\"tabpanel\" aria-labelledby=\"heading603648fde3dbc\">\n        <div class=\"card-block\">\n            <p>Aufgrund der aktuellen Situation haben wir bis Ende Januar 2021 alle unsere Beratertage abgesagt, beraten Sie aber gerne bis dahin online.</p>\n<p>Bitte vereinbaren Sie vorab Ihren ganz persönlichen Termin:<br /><a href=\"tel:06111805880\">0611–180 58 82</a></p>\n\n        </div>\n    </div>\n</div>\n<hr><div class=\"card\">\n    <div class=\"card-header\" role=\"tab\" id=\"heading603648fdea6f6\">\n        <p class=\"tk-accordion-toggle clearfix collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapse603648fdea6f6\" aria-controls=\"collapse603648fdea6f6\">\n            <span class=\"tk-accordion-label\">Berlin</span>\n            <span class=\"tk-accordion-icon-collapsed\"><i class=\"fa fa-angle-down\"></i></span>\n            <span class=\"tk-accordion-icon-show\"><i class=\"fa fa-angle-up\"></i></span>\n        </p>\n    </div>\n    <div id=\"collapse603648fdea6f6\" class=\"collapse\" role=\"tabpanel\" aria-labelledby=\"heading603648fdea6f6\">\n        <div class=\"card-block\">\n            <p>Aufgrund der aktuellen Situation haben wir bis Ende Januar 2021 alle unsere Beratertage abgesagt, beraten Sie aber gerne bis dahin online.</p>\n<p>Bitte vereinbaren Sie vorab Ihren ganz persönlichen Termin:<br /><a href=\"tel:06111805880\">0611–180 58 82</a></p>\n\n        </div>\n    </div>\n</div>\n<hr><div class=\"card\">\n    <div class=\"card-header\" role=\"tab\" id=\"heading603648fdea7ad\">\n        <p class=\"tk-accordion-toggle clearfix collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapse603648fdea7ad\" aria-controls=\"collapse603648fdea7ad\">\n            <span class=\"tk-accordion-label\">Düsseldorf</span>\n            <span class=\"tk-accordion-icon-collapsed\"><i class=\"fa fa-angle-down\"></i></span>\n            <span class=\"tk-accordion-icon-show\"><i class=\"fa fa-angle-up\"></i></span>\n        </p>\n    </div>\n    <div id=\"collapse603648fdea7ad\" class=\"collapse\" role=\"tabpanel\" aria-labelledby=\"heading603648fdea7ad\">\n        <div class=\"card-block\">\n            <p>Aufgrund der aktuellen Situation haben wir bis Ende Januar 2021 alle unsere Beratertage abgesagt, beraten Sie aber gerne bis dahin online.</p>\n<p>Bitte vereinbaren Sie vorab Ihren ganz persönlichen Termin:<br /><a href=\"tel:06111805880\">0611–180 58 82</a></p>\n\n        </div>\n    </div>\n</div>\n<hr><div class=\"card\">\n    <div class=\"card-header\" role=\"tab\" id=\"heading603648fdea84a\">\n        <p class=\"tk-accordion-toggle clearfix collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapse603648fdea84a\" aria-controls=\"collapse603648fdea84a\">\n            <span class=\"tk-accordion-label\">München</span>\n            <span class=\"tk-accordion-icon-collapsed\"><i class=\"fa fa-angle-down\"></i></span>\n            <span class=\"tk-accordion-icon-show\"><i class=\"fa fa-angle-up\"></i></span>\n        </p>\n    </div>\n    <div id=\"collapse603648fdea84a\" class=\"collapse\" role=\"tabpanel\" aria-labelledby=\"heading603648fdea84a\">\n        <div class=\"card-block\">\n            <p>Aufgrund der aktuellen Situation haben wir bis Ende Januar 2021 alle unsere Beratertage abgesagt, beraten Sie aber gerne bis dahin online.</p>\n<p>Bitte vereinbaren Sie vorab Ihren ganz persönlichen Termin:<br /><a href=\"tel:06111805880\">0611–180 58 82</a></p>\n\n        </div>\n    </div>\n</div>\n<hr><div class=\"card\">\n    <div class=\"card-header\" role=\"tab\" id=\"heading603648fdea8e3\">\n        <p class=\"tk-accordion-toggle clearfix collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapse603648fdea8e3\" aria-controls=\"collapse603648fdea8e3\">\n            <span class=\"tk-accordion-label\">Stuttgart</span>\n            <span class=\"tk-accordion-icon-collapsed\"><i class=\"fa fa-angle-down\"></i></span>\n            <span class=\"tk-accordion-icon-show\"><i class=\"fa fa-angle-up\"></i></span>\n        </p>\n    </div>\n    <div id=\"collapse603648fdea8e3\" class=\"collapse\" role=\"tabpanel\" aria-labelledby=\"heading603648fdea8e3\">\n        <div class=\"card-block\">\n            <p>Aufgrund der aktuellen Situation haben wir bis Ende Januar 2021 alle unsere Beratertage abgesagt, beraten Sie aber gerne bis dahin online.</p>\n<p>Bitte vereinbaren Sie vorab Ihren ganz persönlichen Termin:<br /><a href=\"tel:06111805880\">0611–180 58 82</a></p>\n\n        </div>\n    </div>\n</div>\n<hr><div class=\"card\">\n    <div class=\"card-header\" role=\"tab\" id=\"heading603648fdea96b\">\n        <p class=\"tk-accordion-toggle clearfix collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapse603648fdea96b\" aria-controls=\"collapse603648fdea96b\">\n            <span class=\"tk-accordion-label\">Wiesbaden/Darmstadt</span>\n            <span class=\"tk-accordion-icon-collapsed\"><i class=\"fa fa-angle-down\"></i></span>\n            <span class=\"tk-accordion-icon-show\"><i class=\"fa fa-angle-up\"></i></span>\n        </p>\n    </div>\n    <div id=\"collapse603648fdea96b\" class=\"collapse\" role=\"tabpanel\" aria-labelledby=\"heading603648fdea96b\">\n        <div class=\"card-block\">\n            <p>In unseren Büros in Wiesbaden und Darmstadt können Sie jederzeit einen persönlichen Beratungstermin  oder einen Termin per Skype vereinbaren. Rufen Sie uns einfach an:<br />\n<a href=\"tel:06111805880\">0611–180 58 82</a></p>\n\n        </div>\n    </div>\n</div>\n<hr></div>\n<h2 id=\"\"></h2>\n<h2><strong>Der Ablauf der Beratung</strong></h2>\n<p>Wenn wir uns kennen lernen, wollen wir uns Zeit für die Beratung nehmen. Deshalb vergeben wir feste Termin-Slots. Die sind dann auf 50 Minuten beschränkt, aber in dieser Zeit lässt sich im Erstgespräch schon viel klären.</p>\n<p>Natürlich ist es sinnvoll, dass schon im Erstgespräch Ihr Kind dabei ist. Und wenn Sie uns im Vorfeld schon mal die letzten zwei Zeugnisse zukommen lassen, können wir uns umso besser konkret auf das Gespräch mit Ihnen und Ihrem Kind vorbereiten.</p>\n\n\n<h2><strong>Was kostet die Beratung von Töchter und Söhne?</strong></h2>\n<p>Die Erstgespräche, die wir Ihnen in Ihrer Nähe anbieten, sind für Sie kostenfrei. Wenn ein Auslandsaufenthalt geplant ist, und wir Sie im weiteren Prozess informieren, beraten und begleiten sollen, bieten wir Ihnen unterschiedliche Beratungsintensitäten an<strong>.</strong></p>\n<p>Das hängt z.B. davon ab, wie aufwändig ein Visumprozess ist oder ob überhaupt eines notwendig ist. Oder wie intensiv Sie die Begleitung durch Töchter und Söhne wünschen; wollen Sie eine Rundum-Betreuung, die auch nach dem Beginn des Internatsaufenthaltes weiter geht oder genügt es Ihnen, wenn wir Sie nur bis zum Start begleiten.</p>\n<p>Wenn Sie vorab Fragen haben, rufen Sie uns einfach unverbindlich an: <a href=\"tel:06111805880\">0611–180 58 80</a> oder schicken Sie uns eine Email: <a href=\"mailto:office@internate.org\">office@internate.org</a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Persönliche Antworten zum Thema Internat: Individuelle Beratung im November per Skype Aufgrund der aktuellen Corona Lage, möchten wir verantwortungsvoll handeln und laden Sie daher, anstatt eines persönlichen Treffens herzlich zu einem Video-Call (Skype, Zoom, Teams) ein. Egal, ob Sie sich für ein Internat in Deutschland interessieren, weil Sie mit der pädagogischen Betreuung an der öffentlichen [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 4184,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_relevanssi_hide_post": "",
+      "_relevanssi_pin_for_all": "",
+      "_relevanssi_pin_keywords": "",
+      "_relevanssi_unpin_keywords": "",
+      "_relevanssi_related_keywords": "",
+      "_relevanssi_related_include_ids": "",
+      "_relevanssi_related_exclude_ids": "",
+      "_relevanssi_related_no_append": "",
+      "_relevanssi_related_not_related": "",
+      "_relevanssi_related_posts": "",
+      "_relevanssi_noindex_reason": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4159"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/comments?post=4159"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 10,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4159/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 4310,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4159/revisions/4310"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/media/4184"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/media?parent=4159"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/categories?post=4159"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/tags?post=4159"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4036,
+    "date": "2020-08-26T16:49:10",
+    "date_gmt": "2020-08-26T14:49:10",
+    "guid": {
+      "rendered": "https://www.internate.org/?p=4036"
+    },
+    "modified": "2020-09-25T14:13:12",
+    "modified_gmt": "2020-09-25T12:13:12",
+    "slug": "studienberatung-bei-toechter-und-soehne-erfindet-sich-neu",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.internate.org/toechter-und-soehne-blog/studienberatung-bei-toechter-und-soehne-erfindet-sich-neu/",
+    "title": {
+      "rendered": "Momentan können keine weiteren Termine für die Studienberatung bei Töchter und Söhne vergeben werden"
+    },
+    "content": {
+      "rendered": "<h1>Durchschnaufen, neu besinnen, sich den Wind um die Nase wehen lassen</h1>\n<p>Unser erfahrener und beliebter Studienberater Dr. Nisslmüller hat sich für die nächsten Monate zu einem Sabbatical zurückgezogen. Daher können wir momentan keine neuen Termine für eine Studienberatung vergeben.</p>\n<p>Manchmal tut es gut, sich zurückzunehmen, zu verschnaufen, um neue Kraft und Energie zu tanken. Genau das wird Dr. Nisslmüller in den nächsten Monaten tun. Und wir sind sehr zuversichtlich, dass Dr. Nisslmüller die Zeit gut nutzen wird. Wie wünschen ihm eine gute Zeit und bis bald.</p>\n<p>Wir werden es rechtzeitig kommunizieren, wenn die Studienberatung mit frischem Elan und neuen Ideen wieder weiter gehen wird.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Durchschnaufen, neu besinnen, sich den Wind um die Nase wehen lassen Unser erfahrener und beliebter Studienberater Dr. Nisslmüller hat sich für die nächsten Monate zu einem Sabbatical zurückgezogen. Daher können wir momentan keine neuen Termine für eine Studienberatung vergeben. Manchmal tut es gut, sich zurückzunehmen, zu verschnaufen, um neue Kraft und Energie zu tanken. Genau [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3762,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_relevanssi_hide_post": "",
+      "_relevanssi_pin_for_all": "",
+      "_relevanssi_pin_keywords": "",
+      "_relevanssi_unpin_keywords": "",
+      "_relevanssi_related_keywords": "",
+      "_relevanssi_related_include_ids": "",
+      "_relevanssi_related_exclude_ids": "",
+      "_relevanssi_related_no_append": "",
+      "_relevanssi_related_not_related": "",
+      "_relevanssi_related_posts": "",
+      "_relevanssi_noindex_reason": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4036"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/comments?post=4036"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 8,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4036/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 4067,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/4036/revisions/4067"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/media/3762"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/media?parent=4036"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/categories?post=4036"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/tags?post=4036"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3934,
+    "date": "2020-07-20T14:52:40",
+    "date_gmt": "2020-07-20T12:52:40",
+    "guid": {
+      "rendered": "https://www.internate.org/?p=3934"
+    },
+    "modified": "2021-01-15T11:15:19",
+    "modified_gmt": "2021-01-15T10:15:19",
+    "slug": "internatsaufenthalt-in-grossbritannien-was-ist-zu-beachten",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.internate.org/toechter-und-soehne-blog/internatsaufenthalt-in-grossbritannien-was-ist-zu-beachten/",
+    "title": {
+      "rendered": "Internatsaufenthalt in Großbritannien: <br>Was unter Corona-Bedingungen zu beachten ist!"
+    },
+    "content": {
+      "rendered": "<h1>Internat in England.<br />\nWas unter Corona zu beachten ist!</h1>\n<h2><strong>|||||  AKTUELL ||||</strong>   11. Januar 2020  Wer nun aus Deutschland einreisen möchte, braucht den Nachweis eines Negativ-Tests, der nicht älter als 72 Stunden ist. Nach der Einreise ist eine 10-tägige häusliche Quarantäne notwendig. <a href=\"https://www.gov.uk/guidance/coronavirus-covid-19-travel-corridors\">Weitere Hinweise</a>, auch was Ausnahmen anbetrifft, gibt die britische Regierung heraus. Weiterhin gilt: Wenn Sie Unterstützung benötigen, kontaktieren Sie uns bitte.  <strong>|||||  AKTUELL ||||</strong></h2>\n<h3><strong>|||||  AKTUELL ||||</strong>   4. Januar 2020  Der Premierminister als auch die schottische Regierungschefin Nicola Sturgeon haben einen allgemeinen Schul-Lockdown erlassen. Stand heute können Internatsschüler in vielen Fällen dennoch anreisen, bzw. im Internat verbleiben. Einzelne Schulen haben allerdings auch begonnen, die nach den Weihnachtsferien bereits angereisten Schüler wieder nach Hause zu schicken. Wenn Sie Unterstützung benötigen, kontaktieren Sie uns bitte.  <strong>|||||  AKTUELL ||||</strong></h3>\n<p>Bis dahin galt: Alle Einreisenden nach Großbritannien müssen (Stand: ab 27.10.2020) vor Einreise eine elektronische Anmeldung vornehmen. Die elektronische Anmeldung kann nur <a href=\"https://www.gov.uk/provide-journey-contact-details-before-travel-uk\">online</a> und <strong>frühestens 48 Stunden vor Einreise</strong> vorgenommen werden. Bei der Einreise muss die erfolgte Anmeldung nachgewiesen werden.<br />\nAuf Grund der sehr dynamischen Covid-19 Situation können sich die Reisebestimmungen sehr schnell ändern. Wir empfehlen daher bis zur Abreise die allgemeinen <a href=\"https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-gesundheit/gesundheit-fachinformationen/reisemedizinische-hinweise/Coronavirus\">Reisehinweise zu Covid-19</a>, sowie die <a href=\"https://www.auswaertiges-amt.de/de/aussenpolitik/laender/grossbritannien-node/grossbritanniensicherheit/206408\">Reise- und Sicherheitshinweise des Auswärtigen Amts für Großbritannien</a> stets im Blick zu behalten.</p>\n<p>Für <strong>kürzere Aufenthalte</strong> gelten gesonderte Bedingungen, bitte sprechen Sie dazu unsere Beraterinnen an.</p>\n<h2 id=\"was-die-englischen-internate-tun\">Was die englischen Internate tun</h2>\n<p>Auch wenn die Pflicht zur Quarantäne nicht weiterbesteht, gibt es von der Regierung vorgegebene Sicherheits- und Hygienemaßnamen, die die Internate erfüllen müssen. Da die Sicherheit und Gesundheit der Schülerinnen und Schüler selbstverständlich nach wie vor oberste Priorität für die Internate hat, hat man die sogenannte <strong>Boarding Schools‘ Association Covid-Safe Chart</strong> verabschiedet. Die daran beteiligten Schulen verpflichten sich, die dort aufgeführten Anforderungen zu erfüllen, um die Boarding Häuser wieder für die Schüler öffnen zu können.</p>\n<p>Informationen über die BSA und eine Übersicht der festgelegten Anforderungen finden Sie auf der <a href=\"https://www.boarding.org.uk/467/safeguarding/-covid-19\">Website der Boarding Schools‘ Association</a>.</p>\n<p>Nicht zuletzt stehen die Schulen in regelmäßigem Austausch mit uns, den Schüler/innen und den Eltern, sodass der Internatsaufenthalt auch unter diesen ungewöhnlichen Umständen zu einem erfolgreichen Erlebnis wird.</p>\n<p>Wenn Sie Fragen haben kommen Sie bitte auf unserer <a href=\"https://www.internate.org/toechter-und-soehne-ueber-uns/team/\">Beraterinnen</a> zu: <a href=\"tel:06111805880\">0611–180 58 80</a> oder per Mail <a href=\"mailto:info@internate.org\">info@internate.org</a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Internat in England. Was unter Corona zu beachten ist! |||||  AKTUELL ||||   11. Januar 2020  Wer nun aus Deutschland einreisen möchte, braucht den Nachweis eines Negativ-Tests, der nicht älter als 72 Stunden ist. Nach der Einreise ist eine 10-tägige häusliche Quarantäne notwendig. Weitere Hinweise, auch was Ausnahmen anbetrifft, gibt die britische Regierung heraus. Weiterhin gilt: [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3694,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_relevanssi_hide_post": "",
+      "_relevanssi_pin_for_all": "",
+      "_relevanssi_pin_keywords": "",
+      "_relevanssi_unpin_keywords": "",
+      "_relevanssi_related_keywords": "",
+      "_relevanssi_related_include_ids": "",
+      "_relevanssi_related_exclude_ids": "",
+      "_relevanssi_related_no_append": "",
+      "_relevanssi_related_not_related": "",
+      "_relevanssi_related_posts": "",
+      "_relevanssi_noindex_reason": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/3934"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/comments?post=3934"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 19,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/3934/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 4532,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/3934/revisions/4532"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/media/3694"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/media?parent=3934"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/categories?post=3934"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/tags?post=3934"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3636,
+    "date": "2020-06-26T18:20:33",
+    "date_gmt": "2020-06-26T16:20:33",
+    "guid": {
+      "rendered": "https://www.internate.org/?p=3636"
+    },
+    "modified": "2020-08-26T16:34:51",
+    "modified_gmt": "2020-08-26T14:34:51",
+    "slug": "summercamps-finden-nun-doch-statt",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.internate.org/toechter-und-soehne-blog/summercamps-finden-nun-doch-statt/",
+    "title": {
+      "rendered": "Summercamps finden nun doch statt. <br>Noch schnell bewerben und den Sommer retten"
+    },
+    "content": {
+      "rendered": "<h1>Nun finden sie doch statt: Summercamps 2020</h1>\n<p>Nach Wochen häuslicher Quarantäne, in denen man quasi nur Eltern und Geschwister um sich hatte (bzw. ihnen ausgesetzt war), kann es im Sommer doch noch einmal richtig lustig werden: in einem <strong><a href=\"https://www.internate.org/summerschool/#sprachkurse-fuer-schueler\">Summercamp</a> mit Gleichaltrigen.</strong></p>\n<p>Zwar dachten man noch vor vier Wochen, Sommercamps seien alle abgesagt, aber immer mehr Schulen – vor allem in den <a href=\"https://www.internate.org/toechter-und-soehne-blog/schweiz-und-deutschland-die-sichersten-corona-laender/\">sichersten Corona-Ländern</a> <strong>Deutschland und Schweiz</strong> – haben sich dann kurzfristig entschlossen, ihre Summercamps doch anzubieten.</p>\n<p>Das ist zwar alles ein bisschen kurzfristig, aber unsere Summmercamp-Spezialistin, <a href=\"https://www.internate.org/toechter-und-soehne-ueber-uns/team/\">Katrin Zimmermann</a>, findet bestimmt auch für Ihr Kind noch das richtige.  Rufen Sie sie doch einfach mal an: <a href=\"tel:06111805882\">0611–180 58 82 </a>oder schicken Sie ihr eine E-Mail: <a href=\"mailto:camps@internate.org\">camps@internate.org</a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Nun finden sie doch statt: Summercamps 2020 Nach Wochen häuslicher Quarantäne, in denen man quasi nur Eltern und Geschwister um sich hatte (bzw. ihnen ausgesetzt war), kann es im Sommer doch noch einmal richtig lustig werden: in einem Summercamp mit Gleichaltrigen. Zwar dachten man noch vor vier Wochen, Sommercamps seien alle abgesagt, aber immer mehr [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3509,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_relevanssi_hide_post": "",
+      "_relevanssi_pin_for_all": "",
+      "_relevanssi_pin_keywords": "",
+      "_relevanssi_unpin_keywords": "",
+      "_relevanssi_related_keywords": "",
+      "_relevanssi_related_include_ids": "",
+      "_relevanssi_related_exclude_ids": "",
+      "_relevanssi_related_no_append": "",
+      "_relevanssi_related_not_related": "",
+      "_relevanssi_related_posts": "",
+      "_relevanssi_noindex_reason": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/3636"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/comments?post=3636"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 7,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/3636/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 3843,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/3636/revisions/3843"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/media/3509"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/media?parent=3636"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/categories?post=3636"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/tags?post=3636"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3631,
+    "date": "2020-06-26T15:33:30",
+    "date_gmt": "2020-06-26T13:33:30",
+    "guid": {
+      "rendered": "https://www.internate.org/?p=3631"
+    },
+    "modified": "2020-09-01T10:34:44",
+    "modified_gmt": "2020-09-01T08:34:44",
+    "slug": "leiter-von-louisenlund-dr-roesner-im-interview-mit-dr-kulessa-von-toechter-und-soehne",
+    "status": "publish",
+    "type": "post",
+    "link": "https://www.internate.org/toechter-und-soehne-blog/leiter-von-louisenlund-dr-roesner-im-interview-mit-dr-kulessa-von-toechter-und-soehne/",
+    "title": {
+      "rendered": "Dr. Rösner, Leiter von Louisenlund, berichtet über Zukunftspläne"
+    },
+    "content": {
+      "rendered": "<h1>Dr. Rösner, Leiter von Louisenlund, im Interview mit Dr. Kulessa von Töchter und Söhne</h1>\n<h3 id=\"kein-internat-kann-es-sich-erlauben-auf-die-veraenderungen-die-die-corona-krise-so-ueberdeutlich-zu-tage-gebracht-hat-nicht-zu-reagieren-dr-roesner-der-leiter-des-elite-internats-louisenlund-be\">Kein Internat kann es sich erlauben, auf die Veränderungen, die die Corona-Krise so überdeutlich zu Tage gebracht hat, nicht zu reagieren. Dr. Rösner, der Leiter des Elite-Internats Louisenlund, berichtet darüber, wie sich Lund auf die Herausforderungen einstellt, wie man bisher mit Corona umgegangen ist, was man für die nahe Zukunft plant und wie er  langfristig die pädagogische Zukunft dieser Internats-Perle im Norden gestalten will:</h3>\n\n<div class=\"BorlabsCookie\">\n<div class=\"_brlbs-content-blocker\">\n<div class=\"_brlbs-embed _brlbs-video-youtube\"> <img class=\"_brlbs-thumbnail\" src=\"https://www.internate.org/wp-content/plugins/borlabs-cookie/images/cb-no-thumbnail.png\" alt=\"YouTube\">\n<div class=\"_brlbs-caption\">\n<p>Mit dem Laden des Videos akzeptieren Sie die Datenschutzerklärung von YouTube.<br /><a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Mehr erfahren</a></p>\n<p><a class=\"_brlbs-btn _brlbs-icon-play-white\" href=\"#\" data-borlabs-cookie-unblock role=\"button\">Video laden</a></p>\n<p><label><input type=\"checkbox\" name=\"unblockAll\" value=\"1\" checked> <small>YouTube immer entsperren</small></label></p>\n</p></div></div></div>\n<div class=\"borlabs-hide\" data-borlabs-cookie-type=\"content-blocker\" data-borlabs-cookie-id=\"youtube\"><script type=\"text/template\">PGlmcmFtZSB0aXRsZT0iSW50ZXJ2aWV3IERyLiBQZXRlciBSw7ZzbmVyLCBMb3Vpc2VubHVuZCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIyODEiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS1ub2Nvb2tpZS5jb20vZW1iZWQvZVo3V0tJQzRJQVE/ZmVhdHVyZT1vZW1iZWQiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYWNjZWxlcm9tZXRlcjsgYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4=</script></div>\n</div>\n<p>Wenn das Ihr Interesse an <a href=\"https://www.internate.org/internate-in-deutschland/internat-louisenlund/\">Louisenlund</a> geweckt hat, und Sie sich vorstellen können, auch Ihrem Kind einen Aufenthalt dort zu ermöglichen,</p>\n<ul>\n<li>berichten wir Ihnen gerne von unseren inzwischen jahrzehntelangen Erfahrungen mit diesem Internat,</li>\n<li>besprechen mit Ihnen, ob Lund gerade für Ihr Kind eine passende Wahl sein kann</li>\n<li>eruieren, ob und wie eine Kontaktaufnahme erfolgreich verlaufen kann</li>\n<li>und unterstützen Sie gerne bei der Bewerbung</li>\n</ul>\n<p>Rufen Sie uns an: <a href=\"tel:06111805880\">0611–180 58 80,</a> oder schicken Sie uns eine E-Mail:  <a href=\"mailto:info@internate.org\">info@internate.org</a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Dr. Rösner, Leiter von Louisenlund, im Interview mit Dr. Kulessa von Töchter und Söhne Kein Internat kann es sich erlauben, auf die Veränderungen, die die Corona-Krise so überdeutlich zu Tage gebracht hat, nicht zu reagieren. Dr. Rösner, der Leiter des Elite-Internats Louisenlund, berichtet darüber, wie sich Lund auf die Herausforderungen einstellt, wie man bisher mit [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 1003,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_relevanssi_hide_post": "",
+      "_relevanssi_pin_for_all": "",
+      "_relevanssi_pin_keywords": "",
+      "_relevanssi_unpin_keywords": "",
+      "_relevanssi_related_keywords": "",
+      "_relevanssi_related_include_ids": "",
+      "_relevanssi_related_exclude_ids": "",
+      "_relevanssi_related_no_append": "",
+      "_relevanssi_related_not_related": "",
+      "_relevanssi_related_posts": "",
+      "_relevanssi_noindex_reason": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/3631"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/comments?post=3631"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/3631/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 3635,
+          "href": "https://www.internate.org/wp-json/wp/v2/posts/3631/revisions/3635"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/media/1003"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.internate.org/wp-json/wp/v2/media?parent=3631"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/categories?post=3631"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://www.internate.org/wp-json/wp/v2/tags?post=3631"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
