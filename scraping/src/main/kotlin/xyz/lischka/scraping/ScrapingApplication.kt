@@ -15,10 +15,6 @@ import java.util.*
 @SpringBootApplication
 @EnableScheduling
 class ScrapingApplication
-
 	fun main(args: Array<String>) {
 		runApplication<ScrapingApplication>(*args)
 	}
-
-
-
