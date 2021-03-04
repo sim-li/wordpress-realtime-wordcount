@@ -1,3 +1,3 @@
-package xyz.lischka.textanalysis.model
+package xyz.lischka.textanalysis.entities
 
 data class WordCount(val count: Map<String, Int>)
