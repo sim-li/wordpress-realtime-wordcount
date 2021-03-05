@@ -25,7 +25,14 @@ class BlogPostRepository {
     }
 
     fun getNewestDate(): LocalDateTime? {
+        if (db.isEmpty()) {
+            return null
+        }
         db.sortByDescending{ post -> post.date }
         return db[0].date
+    }
+
+    fun isEmpty(): Boolean {
+        return db.isEmpty()
     }
 }

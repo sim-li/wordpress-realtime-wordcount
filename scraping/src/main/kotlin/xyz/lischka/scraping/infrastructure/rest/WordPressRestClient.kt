@@ -1,16 +1,12 @@
 package xyz.lischka.scraping.infrastructure.rest
 
 import org.springframework.beans.factory.annotation.Autowired
-import org.springframework.http.HttpEntity
-import org.springframework.http.HttpHeaders
-import org.springframework.http.HttpMethod
-import org.springframework.http.MediaType
 import org.springframework.stereotype.Service
 import org.springframework.web.client.RestClientException
 import org.springframework.web.client.RestTemplate
 import org.springframework.web.util.UriComponentsBuilder
 import xyz.lischka.scraping.entities.rest.BlogPost
-import xyz.lischka.scraping.infrastructure.config.ServerUrlConfig
+import xyz.lischka.scraping.infrastructure.config.Constants
 import java.time.LocalDateTime
 
 @Service
@@ -19,10 +15,23 @@ class WordPressRestClient {
     @Autowired
     private lateinit var restTemplate: RestTemplate
 
+    private var latestTimeStamp: LocalDateTime? = null
+
+//    fun getNewBlogPosts(): List<BlogPost>? {
+//        if(latestTimeStamp == null) {
+//            val blogPosts = getAllBlogPosts()
+//            val sorted = blogPosts?.sortedByDescending { post -> post.date }
+//            latestTimeStamp = sorted?.get(0)?.date
+//            return blogPosts
+//        } else {
+//            getBlogPostsAfterDate(latestTimeStamp)
+//        }
+//    }
+
     fun getAllBlogPosts(): List<BlogPost>? {
         try {
             return restTemplate.getForObject(
-                ServerUrlConfig.LOCAL_WP_DEMOSERVER_URL, Array<BlogPost>::class.java
+                Constants.LOCAL_WP_DEMOSERVER_URL, Array<BlogPost>::class.java
             )?.asList()
         } catch (e: RestClientException) {
             return null
@@ -30,7 +39,7 @@ class WordPressRestClient {
     }
 
     fun getBlogPostsAfterDate(afterDate: LocalDateTime): List<BlogPost>? {
-        val builder = UriComponentsBuilder.fromHttpUrl(ServerUrlConfig.REAL_WP_SERVER)
+        val builder = UriComponentsBuilder.fromHttpUrl(Constants.REAL_WP_SERVER)
             .queryParam("after",  afterDate.toString())
 
         try {

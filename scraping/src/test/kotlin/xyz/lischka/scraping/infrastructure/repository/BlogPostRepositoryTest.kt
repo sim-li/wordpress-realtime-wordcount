@@ -126,5 +126,12 @@ class BlogPostRepositoryTest {
 
             assertThat(actual).isEqualTo(LocalDateTime.parse("2021-03-02T12:44:55"))
         }
+
+        @Test
+        fun `get empty date when no entries`() {
+            val actual = repo.getNewestDate()
+
+            assertThat(actual).isNull()
+        }
     }
 }
