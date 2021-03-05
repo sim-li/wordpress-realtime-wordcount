@@ -23,26 +23,27 @@ class WordpressScrapingService {
     private var latestTimeStamp: LocalDateTime? = null
 
     fun checkIfNewBlogPosts() {
-        //move this code to repo
-        var newBlogPosts: List<BlogPost>?  = null
-        if (blogPostRepository.isEmpty()) {
-            newBlogPosts = wordPressRestClient.getAllBlogPosts()
-        } else {
-            val date = blogPostRepository.getNewestDate()
-            if (date != null) {
-                newBlogPosts = wordPressRestClient.getBlogPostsAfterDate(
-                    date
-                )
-                newBlogPosts?.let { b ->
-                    blogPostRepository.save(b)
-                }
-            }
-        }
-        newBlogPosts?.forEach { b ->
-            kafkaTemplate.send(
-                "blogposts-json",
-                NewBlogPostPublished(b.id, b.content?.rendered ?: "")
-            )
-        }
+        // TODO: WIP, pending for remodel and just an idea
+//
+//        var newBlogPosts: List<BlogPost>?  = null
+//        if (blogPostRepository.isEmpty()) {
+//            newBlogPosts = wordPressRestClient.getAllBlogPosts()
+//        } else {
+//            val date = blogPostRepository.getNewestDate()
+//            if (date != null) {
+//                newBlogPosts = wordPressRestClient.getBlogPostsAfterDate(
+//                    date
+//                )
+//                newBlogPosts?.let { b ->
+//                    blogPostRepository.save(b)
+//                }
+//            }
+//        }
+//        newBlogPosts?.forEach { b ->
+//            kafkaTemplate.send(
+//                "blogposts-json",
+//                NewBlogPostPublished(b.id, b.content?.rendered ?: "")
+//            )
+//        }
     }
 }
