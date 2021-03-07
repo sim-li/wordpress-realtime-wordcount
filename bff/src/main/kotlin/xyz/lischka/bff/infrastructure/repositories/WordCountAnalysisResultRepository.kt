@@ -1,6 +1,7 @@
-package xyz.lischka.bff
+package xyz.lischka.bff.infrastructure.repositories
 
 import org.springframework.stereotype.Repository
+import xyz.lischka.bff.entities.events.WordCountAnalysisResult
 
 @Repository
 class WordCountAnalysisResultRepository {

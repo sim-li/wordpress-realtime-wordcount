@@ -1,4 +1,4 @@
-package xyz.lischka.bff
+package xyz.lischka.bff.entities.events
 
 import com.fasterxml.jackson.annotation.JsonProperty
 

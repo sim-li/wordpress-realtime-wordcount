@@ -8,6 +8,8 @@ import org.junit.runner.RunWith
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.context.SpringBootTest
 import org.springframework.test.context.junit4.SpringRunner
+import xyz.lischka.bff.entities.events.WordCountAnalysisResult
+import xyz.lischka.bff.infrastructure.repositories.WordCountAnalysisResultRepository
 
 @RunWith(SpringRunner::class)
 @SpringBootTest
@@ -39,7 +41,8 @@ class WordCountAnalysisResultRepositoryTest {
                     "some-id",
                     htmlContent =  "<b>some content</b>\n\n",
                     counts = mapOf("some" to 1, "content" to 1)
-                ))
+                )
+            )
             )
         }
 
