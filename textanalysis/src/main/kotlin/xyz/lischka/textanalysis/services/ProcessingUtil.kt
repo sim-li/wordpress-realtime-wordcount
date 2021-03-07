@@ -4,13 +4,17 @@ import org.jsoup.Jsoup
 import xyz.lischka.textanalysis.entities.events.NewBlogPostPublished
 import xyz.lischka.textanalysis.entities.WordCount
 import xyz.lischka.textanalysis.entities.Words
+import xyz.lischka.textanalysis.entities.events.WordCountAnalysisResult
 
 object ProcessingUtil {
-    fun countWordsInBlogPost(blogPostPublishedEvent: NewBlogPostPublished): WordCount {
+    fun countWordsInBlogPost(blogPostPublishedEvent: NewBlogPostPublished): WordCountAnalysisResult {
         // TODO: Strip special characters like parenthesis () {}
         val stripped: String = stripHtml(blogPostPublishedEvent.htmlContent)
         val words: Words = splitTextToWords(stripped)
-        return countWords(words)
+
+        val (id, html) = blogPostPublishedEvent
+        val wordCount = countWords(words)
+        return WordCountAnalysisResult(id, html, wordCount.count)
     }
 
     fun stripHtml(html: String): String {

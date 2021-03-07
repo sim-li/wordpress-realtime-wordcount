@@ -25,7 +25,6 @@ dependencies {
 	implementation("junit:junit:4.12")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("org.springframework.kafka:spring-kafka-test")
-	testImplementation("org.testcontainers:kafka")
 }
 
 tasks.withType<KotlinCompile> {

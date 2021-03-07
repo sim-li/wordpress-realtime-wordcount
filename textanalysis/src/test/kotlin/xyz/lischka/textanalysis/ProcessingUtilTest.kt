@@ -19,7 +19,7 @@ class ProcessingUtilTest {
 
             val actual =  countWordsInBlogPost(inp)
 
-            assertThat(actual.count).isEqualTo(mapOf(
+            assertThat(actual.counts).isEqualTo(mapOf(
                 "Auch" to 1,
                 "Bayern" to 2,
                 "Bundesland" to 1,
@@ -46,7 +46,7 @@ class ProcessingUtilTest {
 
             val actual =  countWordsInBlogPost(inp)
 
-            assertThat(actual.count).isEqualTo(mapOf(
+            assertThat(actual.counts).isEqualTo(mapOf(
                 "Auch" to 1,
                 "Bayern" to 2,
                 "Bundesland" to 1,
@@ -72,7 +72,7 @@ class ProcessingUtilTest {
 
             val actual =  countWordsInBlogPost(inp)
 
-            assertThat(actual.count).isEqualTo(mapOf(
+            assertThat(actual.counts).isEqualTo(mapOf(
                 "Auch" to 1,
                 "ohne" to 2,
                 "Bayern" to 1
@@ -85,7 +85,7 @@ class ProcessingUtilTest {
 
             val actual =  countWordsInBlogPost(inp)
 
-            assertThat(actual.count).isEqualTo(emptyMap<String, Int>())
+            assertThat(actual.counts).isEqualTo(emptyMap<String, Int>())
         }
     }
 
