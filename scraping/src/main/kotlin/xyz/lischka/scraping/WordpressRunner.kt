@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component
 import org.springframework.boot.CommandLineRunner
 
 import org.springframework.context.annotation.Bean
+import xyz.lischka.scraping.infrastructure.config.Constants.Companion.REFRESH_INTERVAL
 import xyz.lischka.scraping.infrastructure.rest.WordPressRestClient
 import xyz.lischka.scraping.services.BlogPostScrapingAndSendingService
 import java.lang.Exception
@@ -18,7 +19,7 @@ class WordpressRunner {
     @Autowired
     private lateinit var service: BlogPostScrapingAndSendingService
 
-    @Scheduled(fixedRate = 5000)
+    @Scheduled(fixedRate = REFRESH_INTERVAL)
     fun fetchEntries() {
         service.scrapeAndSendNewBlogPosts()
     }
