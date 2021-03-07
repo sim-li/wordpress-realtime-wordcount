@@ -1,5 +1,7 @@
 package xyz.lischka.scraping.services
 
+import org.slf4j.Logger
+import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.kafka.core.KafkaTemplate
 import org.springframework.stereotype.Service
@@ -14,8 +16,9 @@ import java.time.LocalDateTime
 // up later to have one Service for Scraping periodically and the other one
 // for sending. But for now, let's make it explicit.
 // We might also go on and extract certain aspects of this into other objects:
-//
 class BlogPostScrapingAndSendingService {
+    var logger: Logger = LoggerFactory.getLogger(BlogPostScrapingAndSendingService::class.java)
+
     @Autowired
     private lateinit var kafkaTemplate: KafkaTemplate<String, NewBlogPostPublished>
 
@@ -26,11 +29,11 @@ class BlogPostScrapingAndSendingService {
 
     fun scrapeAndSendNewBlogPosts() {
         var blogPostsToSend = getUnsentBlogPosts()
-
         blogPostsToSend?.forEach { bp ->
            if (isFirstBlogPostSent() || isNewBlogPost(bp)) {
                sendViaKafka(bp)
                dateOfLastBlogPostSent = bp.date
+               logger.info("Sent out new blogpost, with date ${bp.date}")
             }
         }
     }
@@ -43,9 +46,11 @@ class BlogPostScrapingAndSendingService {
     }
 
     private fun getUnsentBlogPosts() = if (isFirstBlogPostSent()) {
-        rest.getAllBlogPosts()
+        //TODO: Test sortedBy call
+        rest.getAllBlogPosts()?.sortedBy{ post -> post.date }
     } else {
-        rest.getBlogPostsAfter(dateOfLastBlogPostSent)
+        //TODO: Test sortedBy call
+        rest.getBlogPostsAfter(dateOfLastBlogPostSent)?.sortedBy{ post -> post.date }
     }
 
     private fun isFirstBlogPostSent() = dateOfLastBlogPostSent == null
