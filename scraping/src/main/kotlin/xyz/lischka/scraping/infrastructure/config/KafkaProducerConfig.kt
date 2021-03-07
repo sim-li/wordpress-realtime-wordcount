@@ -11,9 +11,6 @@ import org.springframework.kafka.support.serializer.JsonSerializer
 import xyz.lischka.textanalysis.events.NewBlogPostPublished
 import org.springframework.kafka.core.KafkaTemplate
 
-
-
-
 @EnableKafka
 @Configuration
 class KafkaProducerConfig {

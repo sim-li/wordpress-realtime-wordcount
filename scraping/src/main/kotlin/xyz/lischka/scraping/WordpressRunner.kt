@@ -7,9 +7,8 @@ import org.springframework.stereotype.Component
 import org.springframework.boot.CommandLineRunner
 
 import org.springframework.context.annotation.Bean
-import org.springframework.web.util.UriComponentsBuilder
 import xyz.lischka.scraping.infrastructure.rest.WordPressRestClient
-import xyz.lischka.scraping.services.WordpressScrapingService
+import xyz.lischka.scraping.services.BlogPostScrapingAndSendingService
 import java.lang.Exception
 import java.time.LocalDateTime
 
@@ -17,23 +16,18 @@ import java.time.LocalDateTime
 @Component
 class WordpressRunner {
     @Autowired
-    private lateinit var service: WordpressScrapingService
-
-    @Autowired
-    private lateinit var client: WordPressRestClient
+    private lateinit var service: BlogPostScrapingAndSendingService
 
     @Scheduled(fixedRate = 5000)
     fun fetchEntries() {
-//        service.getAllBlogPosts()
+        service.scrapeAndSendNewBlogPosts()
     }
 
     @Bean
     @Throws(Exception::class)
-    fun run(wordpressService: WordpressScrapingService): CommandLineRunner? {
+    fun run(wordpressService: BlogPostScrapingAndSendingService): CommandLineRunner? {
         return CommandLineRunner {
-            val blogposts = client.getBlogPostsAfterDate(
-                LocalDateTime.parse("2021-02-02T18:44:55")
-            )
+            service.scrapeAndSendNewBlogPosts()
         }
     }
 }

@@ -15,19 +15,6 @@ class WordPressRestClient {
     @Autowired
     private lateinit var restTemplate: RestTemplate
 
-    private var latestTimeStamp: LocalDateTime? = null
-
-//    fun getNewBlogPosts(): List<BlogPost>? {
-//        if(latestTimeStamp == null) {
-//            val blogPosts = getAllBlogPosts()
-//            val sorted = blogPosts?.sortedByDescending { post -> post.date }
-//            latestTimeStamp = sorted?.get(0)?.date
-//            return blogPosts
-//        } else {
-//            getBlogPostsAfterDate(latestTimeStamp)
-//        }
-//    }
-
     fun getAllBlogPosts(): List<BlogPost>? {
         try {
             return restTemplate.getForObject(
@@ -38,7 +25,7 @@ class WordPressRestClient {
         }
     }
 
-    fun getBlogPostsAfterDate(afterDate: LocalDateTime): List<BlogPost>? {
+    fun getBlogPostsAfter(afterDate: LocalDateTime?): List<BlogPost>? {
         val builder = UriComponentsBuilder.fromHttpUrl(Constants.REAL_WP_SERVER)
             .queryParam("after",  afterDate.toString())
 
