@@ -23,12 +23,4 @@ class WordpressRunner {
     fun fetchEntries() {
         service.scrapeAndSendNewBlogPosts()
     }
-
-    @Bean
-    @Throws(Exception::class)
-    fun run(wordpressService: BlogPostScrapingAndSendingService): CommandLineRunner? {
-        return CommandLineRunner {
-            service.scrapeAndSendNewBlogPosts()
-        }
-    }
 }

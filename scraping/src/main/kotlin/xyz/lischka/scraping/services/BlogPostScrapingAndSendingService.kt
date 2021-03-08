@@ -60,4 +60,8 @@ class BlogPostScrapingAndSendingService {
     private fun isFirstBlogPostSent() = dateOfLastBlogPostSent == null
 
     private fun isNewBlogPost(bp: BlogPost) = bp.date?.isAfter(dateOfLastBlogPostSent) == true
+
+    fun reset() {
+        this.dateOfLastBlogPostSent = null
+    }
 }
