@@ -36,8 +36,17 @@ Regarding tests we only have the bare minimum tested, and no real integration te
 * Schemas for our Kafka Events (e.g. AVRO https://www.confluent.de/blog/avro-kafka-data/)
 
 ### Running the project
-We're gonna build and run this project with a classical Makefile for now. To make it work we got to 
-build and run several SpringBoot-Kotlin MicroServices plus the React Frontend. For communication via realtime messages we need Kafka. Easiest way is a Kafka docker image we pull and run using `docker-compose`.
+Do this: 
+* in project root: `docker-compose up -d`
+* \<start opening terminal tabs for each one of those or add & and get a mess\>
+* gradle bootRun -p ./bff
+* gradle bootRun -p ./textanalysis
+* gradle bootRun -p ./scraping
+* cd frontend; npm i; npm run start 
+
+or run `make` in project root, if you feel lucky. You're probably not gonna be.
+
+To make this it work we got to build and run several SpringBoot-Kotlin MicroServices plus the React Frontend. For communication via realtime messages we need Kafka. Easiest way is a Kafka docker image we pull and run using `docker-compose`.
 
 #### Prerequisites
 We need a few tools to run this, install the ones you don't have already
