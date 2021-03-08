@@ -65,9 +65,8 @@ We need a few tools to run this, install the ones you don't have already
     `https://docs.docker.com/compose/install/`
 
 
-#### Running this
-Go to the project root and run make. Everything should ramp up automatically.
-Then hit `localhost:3000` in your browser and you should see our real time web interface.
+#### Acessing the interface
+Hit `localhost:3000` in your browser and you should see our real time web interface.
 
 Following ports are relevant for you:
 | Service          | Port          | 
