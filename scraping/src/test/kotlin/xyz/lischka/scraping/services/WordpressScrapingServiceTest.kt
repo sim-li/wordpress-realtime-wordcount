@@ -50,6 +50,7 @@ class WordpressScrapingServiceTest {
                 "blogposts-json",
                 NewBlogPostPublished(
                     id = "some-id",
+                    date = LocalDateTime.parse("2021-02-02T18:44:55"),
                     htmlContent = "some content"
                 )
             )
@@ -74,6 +75,7 @@ class WordpressScrapingServiceTest {
                 "blogposts-json",
                 NewBlogPostPublished(
                     id = "some-id",
+                    date = LocalDateTime.parse("2021-02-02T18:44:55"),
                     htmlContent = "some content"
                 )
             )
@@ -107,6 +109,7 @@ class WordpressScrapingServiceTest {
                 "blogposts-json",
                 NewBlogPostPublished(
                     id = "some-id",
+                    date = LocalDateTime.parse("2021-02-02T18:44:55"),
                     htmlContent = "some content"
                 )
             )
@@ -114,6 +117,7 @@ class WordpressScrapingServiceTest {
                 "blogposts-json",
                 NewBlogPostPublished(
                     id = "another-id",
+                    date = LocalDateTime.parse("2021-02-02T19:44:55"),
                     htmlContent = "some new content"
                 )
             )
