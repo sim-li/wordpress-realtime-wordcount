@@ -10,6 +10,7 @@ import org.springframework.boot.test.context.SpringBootTest
 import org.springframework.test.context.junit4.SpringRunner
 import xyz.lischka.bff.entities.events.WordCountAnalysisResult
 import xyz.lischka.bff.infrastructure.repositories.WordCountAnalysisResultRepository
+import java.time.LocalDateTime
 
 @RunWith(SpringRunner::class)
 @SpringBootTest
@@ -30,7 +31,8 @@ class WordCountAnalysisResultRepositoryTest {
                 WordCountAnalysisResult(
                     "some-id",
                     htmlContent =  "<b>some content</b>\n\n",
-                    counts = mapOf("some" to 1, "content" to 1)
+                    counts = mapOf("some" to 1, "content" to 1),
+                    date = LocalDateTime.parse("2021-02-02T18:44:55")
                 )
             )
 
@@ -40,7 +42,8 @@ class WordCountAnalysisResultRepositoryTest {
                 WordCountAnalysisResult(
                     "some-id",
                     htmlContent =  "<b>some content</b>\n\n",
-                    counts = mapOf("some" to 1, "content" to 1)
+                    counts = mapOf("some" to 1, "content" to 1),
+                    date = LocalDateTime.parse("2021-02-02T18:44:55")
                 )
             )
             )
@@ -52,19 +55,22 @@ class WordCountAnalysisResultRepositoryTest {
                 WordCountAnalysisResult(
                     "some-id",
                     htmlContent =  "<b>some content</b>\n\n",
-                    counts = mapOf("some" to 1, "content" to 1)
+                    counts = mapOf("some" to 1, "content" to 1),
+                    date = LocalDateTime.parse("2021-02-02T18:44:55")
                 )
             )
             repo.save(listOf(
                 WordCountAnalysisResult(
                     "another-id",
                     htmlContent =  "<b>some content</b>\n\n",
-                    counts = mapOf("some" to 1, "content" to 1)
+                    counts = mapOf("some" to 1, "content" to 1),
+                    date = LocalDateTime.parse("2021-02-02T18:44:56")
                 ),
                 WordCountAnalysisResult(
                     "jet-another-id",
                     htmlContent =  "<b>some content</b>\n\n",
-                    counts = mapOf("some" to 1, "content" to 1)
+                    counts = mapOf("some" to 1, "content" to 1),
+                    date = LocalDateTime.parse("2021-02-02T18:44:57")
                 )
             ))
 
@@ -74,17 +80,20 @@ class WordCountAnalysisResultRepositoryTest {
                 WordCountAnalysisResult(
                     "some-id",
                     htmlContent =  "<b>some content</b>\n\n",
-                    counts = mapOf("some" to 1, "content" to 1)
+                    counts = mapOf("some" to 1, "content" to 1),
+                    date = LocalDateTime.parse("2021-02-02T18:44:55")
                 ),
                 WordCountAnalysisResult(
                     "another-id",
                     htmlContent =  "<b>some content</b>\n\n",
-                    counts = mapOf("some" to 1, "content" to 1)
+                    counts = mapOf("some" to 1, "content" to 1),
+                    date = LocalDateTime.parse("2021-02-02T18:44:56")
                 ),
                 WordCountAnalysisResult(
                     "jet-another-id",
                     htmlContent =  "<b>some content</b>\n\n",
-                    counts = mapOf("some" to 1, "content" to 1)
+                    counts = mapOf("some" to 1, "content" to 1),
+                    date = LocalDateTime.parse("2021-02-02T18:44:57")
                 )
             ))
         }

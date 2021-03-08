@@ -14,7 +14,12 @@ object ProcessingUtil {
 
         val (id, html) = blogPostPublishedEvent
         val wordCount = countWords(words)
-        return WordCountAnalysisResult(id, html, wordCount.count)
+        return WordCountAnalysisResult(
+            id = id,
+            htmlContent = html,
+            counts = wordCount.count,
+            date = blogPostPublishedEvent.date
+        )
     }
 
     fun stripHtml(html: String): String {

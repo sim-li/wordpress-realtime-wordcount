@@ -41,7 +41,11 @@ class BlogPostScrapingAndSendingService {
     private fun sendViaKafka(bp: BlogPost) {
         kafkaTemplate.send(
             BLOGPOST_KAFKA_TOPIC,
-            NewBlogPostPublished(bp.id, bp.content?.rendered ?: "")
+            NewBlogPostPublished(
+                id = bp.id,
+                htmlContent = bp.content?.rendered ?: "",
+                date = bp.date ?: LocalDateTime.now()
+            )
         )
     }
 
