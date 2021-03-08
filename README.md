@@ -25,6 +25,7 @@ Regarding tests we only have the bare minimum tested, and no real integration te
 
 ### Possible improvements 
 * Get this thing CI/CD ready
+* Monitoring
 * Write infrastructure tests (Kafka, REST Clients, etc.)
 * Write true integration tests 
 * Implement error handlers for the Kafka consumers (they will crash the application into a death loop if something goes wrong, e.g. with serialization/deserialization)
@@ -38,7 +39,7 @@ Regarding tests we only have the bare minimum tested, and no real integration te
 ### Running the project
 Do this: 
 * in project root: `docker-compose up -d`
-* \<start opening terminal tabs for each one of those or add & and get a mess\>
+* \<start opening terminal tabs for each one of those; check that each one got its connection to Kafka\>
 * gradle bootRun -p ./bff
 * gradle bootRun -p ./textanalysis
 * gradle bootRun -p ./scraping
@@ -89,13 +90,8 @@ Following ports are relevant for you:
     and get some data in bff:
     `curl --location --request GET 'localhost:8081/replay'`
 
+* The microservices display some Kafka connection error blah?
+    * Try removing your docker containers in the docker app and ramp up docker again using docker-compose.
+
 * You're a curious cat and want to see the data the bff has in store for us? Totally understand!
     * Curl it: `curl --location --request GET 'localhost:8080/wordcount'`
-
-* The make script fails and nothing works since it was written last minute? Makes sense! Well, let's try it manually:
-    * in project root: `docker-compose up -d`
-    * \<start opening terminal tabs for each one of those\>
-    * gradle bootRun -p ./bff
-    * gradle bootRun -p ./textanalysis
-    * gradle bootRun -p ./scraping
-    * cd frontend; npm i; npm run start 
