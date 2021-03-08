@@ -1,4 +1,4 @@
-package xyz.lischka.bff.infrastructure.config
+package xyz.lischka.bff.infrastructure.config.socket
 
 import org.springframework.context.annotation.Configuration
 import org.springframework.messaging.simp.config.MessageBrokerRegistry
