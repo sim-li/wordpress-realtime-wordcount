@@ -8,11 +8,11 @@ import ListItem from "@material-ui/core/ListItem";
 import Divider from "@material-ui/core/Divider";
 import Chip from "@material-ui/core/Chip";
 import ListItemText from "@material-ui/core/ListItemText";
-
 import WhatshotIcon from "@material-ui/icons/Whatshot";
 import Card from "@material-ui/core/Card";
 import CardContent from "@material-ui/core/CardContent";
 import Paper from "@material-ui/core/Paper";
+import Truncate from "react-truncate";
 
 const SOCKET_URL = "http://localhost:8080/ws-stats/";
 const REST_URL = "http://localhost:8080/wordcount";
@@ -111,6 +111,8 @@ const WordCounts = ({ wordCounts }) => {
                   {!!wc.isHot ? <WhatshotIcon /> : null}
                   <div>
                     <b>ID</b>: {wc.id}
+                    <br />
+                    <b>Date</b>: {new Date(wc.date).toString()}
                   </div>
                 </React.Fragment>
               }
@@ -118,7 +120,14 @@ const WordCounts = ({ wordCounts }) => {
                 <React.Fragment>
                   <Divider light />
                   <br></br>
-
+                  <b>Sneak Preview (HTML source)</b>:
+                  <Truncate lines={1} ellipsis={<span>...</span>}>
+                    {" "}
+                    {wc.htmlContent}
+                  </Truncate>
+                  <br></br>
+                  <Divider light />
+                  <br></br>
                   {Object.keys(wc.counts).map((key) => (
                     <Chip
                       key={wc.id + key}
