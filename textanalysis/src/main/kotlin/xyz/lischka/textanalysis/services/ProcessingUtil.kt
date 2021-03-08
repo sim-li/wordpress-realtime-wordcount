@@ -31,9 +31,9 @@ object ProcessingUtil {
         return if (text.isEmpty()) Words(emptyList()) else Words(text.split(" "))
     }
 
-    fun countWords(w: Words): WordCount {
+    fun countWords(words: Words): WordCount {
         val occurrences: MutableMap<String, Int> = HashMap()
-        w.words.forEach { w ->
+        words.words.forEach { w ->
             occurrences[w] = if (occurrences.containsKey(w)) occurrences[w]!! + 1 else 1
         }
         return WordCount(occurrences)
