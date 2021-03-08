@@ -37,8 +37,8 @@ Regarding tests we only have the bare minimum tested, and no real integration te
 * Schemas for our Kafka Events (e.g. AVRO https://www.confluent.de/blog/avro-kafka-data/)
 
 ### Running the project
-Do this: 
-* in project root: `docker-compose up -d`
+Do this [run scraping service last and with other services running if you don't wanna have to replay events]: 
+* in project root: `docker-compose up -d`, make sure containers are up and running (ZK & kafka)
 * \<start opening terminal tabs for each one of those; check that each one got its connection to Kafka\>
 * gradle bootRun -p ./bff
 * gradle bootRun -p ./textanalysis
