@@ -8,14 +8,15 @@ import xyz.lischka.textanalysis.entities.events.NewBlogPostPublished
 import xyz.lischka.textanalysis.entities.WordCount
 import xyz.lischka.textanalysis.entities.Words
 import xyz.lischka.textanalysis.services.ProcessingUtil
+import java.time.LocalDateTime
 
 class ProcessingUtilTest {
     @Nested
     inner class processing_pipeline_should() {
         @Test
         fun `count from well formed html input`() {
-            val inp = NewBlogPostPublished(id="xyz", htmlContent="<h1>Auch ohne Grundschul-Empfehlung in Bayern aufs Gymnasium</h1>\n\n" +
-                    "<p>Kein anderes Bundesland Bayern macht es Kindern so schwer, von</p>")
+            val inp = NewBlogPostPublished(id = "xyz", htmlContent = "<h1>Auch ohne Grundschul-Empfehlung in Bayern aufs Gymnasium</h1>\n\n" +
+                    "<p>Kein anderes Bundesland Bayern macht es Kindern so schwer, von</p>", date = LocalDateTime.now())
 
             val actual =  countWordsInBlogPost(inp)
 
@@ -41,8 +42,8 @@ class ProcessingUtilTest {
 
         @Test
         fun `count from malformed html input`() {
-            val inp = NewBlogPostPublished(id="xyz", htmlContent="<h1>Auch ohne Grundschul-Empfehlung in Bayern aufs Gymnasium</h1>\n\n" +
-                    "<p>Kein anderes Bundesland Bayern macht es Kindern so schwer, von")
+            val inp = NewBlogPostPublished(id = "xyz", htmlContent = "<h1>Auch ohne Grundschul-Empfehlung in Bayern aufs Gymnasium</h1>\n\n" +
+                    "<p>Kein anderes Bundesland Bayern macht es Kindern so schwer, von", date = LocalDateTime.now())
 
             val actual =  countWordsInBlogPost(inp)
 
@@ -68,7 +69,7 @@ class ProcessingUtilTest {
 
         @Test
         fun `count from text input`() {
-            val inp = NewBlogPostPublished(id="xyz", htmlContent="Auch ohne ohne Bayern")
+            val inp = NewBlogPostPublished(id = "xyz", htmlContent = "Auch ohne ohne Bayern", date = LocalDateTime.now())
 
             val actual =  countWordsInBlogPost(inp)
 
@@ -81,7 +82,7 @@ class ProcessingUtilTest {
 
         @Test
         fun `count from empty input`() {
-            val inp = NewBlogPostPublished(id="xyz", htmlContent="")
+            val inp = NewBlogPostPublished(id = "xyz", htmlContent = "", date = LocalDateTime.now())
 
             val actual =  countWordsInBlogPost(inp)
 
