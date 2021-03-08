@@ -1,6 +1,7 @@
 package xyz.lischka.bff.infrastructure.rest
 
 import org.springframework.beans.factory.annotation.Autowired
+import org.springframework.web.bind.annotation.CrossOrigin
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController
 import xyz.lischka.bff.entities.events.WordCountAnalysisResult
@@ -12,6 +13,7 @@ class WordCountAnalysisResultController {
     private lateinit var repo: WordCountAnalysisResultRepository
 
     @GetMapping("/wordcount")
+    @CrossOrigin
     //TODO: Write Test
     fun wordCountAnalysisResult(): List<WordCountAnalysisResult> {
         return repo.getAll()
